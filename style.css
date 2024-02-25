@@ -295,6 +295,9 @@ footer a:hover{
     .paternlist img:nth-child(4){
         margin-top: 10px;
     }
+    body img:hover{
+        transform:translateY(0);
+    }
 }
 
 @media (max-width: 656px) {
